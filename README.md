@@ -1,5 +1,5 @@
 
-#  Git Repo Automation Task
+#  Git Repo Automation 
 
 Welcome! In this task, you will create and run a **shell script** that automates the setup and push of a GitHub repository. You’ll also practice using **conditional statements**, **exit codes**, and **basic debugging** techniques.
 
